@@ -4,3 +4,5 @@ Maxime Charpentier : https://github.com/maxime-charpentier
 
 Laura Cherarad :
 https://github.com/praisenoa
+
+Jason Gourovitch : https://github.com/JasonGourovitch
